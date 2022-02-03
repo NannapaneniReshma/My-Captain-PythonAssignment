@@ -1,5 +1,4 @@
 Finterms = int(input("Number of terms to be printed "))
-
 n1, n2 = 0, 1
 count = 0
 if nterms <= 0:
