@@ -6,5 +6,4 @@ def most_frequent(string):
         else:
             d[key] += 1
     return d
-
 print ('Please enter a string ',  most_frequent('Mississippi'))
